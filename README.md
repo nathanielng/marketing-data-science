@@ -47,11 +47,11 @@ Some questions he wants you to answer in your report include:
 | Housing | Does the customer have a housing loan |
 | Loan | Does the customer have a personal loan |
 
-## BTC Bribe Campaign Data
+## BTC Campaign Data
 
 | Campaign Data	| Description |
 | --- | --- |
-| Campaign | Was the customer bribed or not |
+| Campaign | Did the customer receive money |
 | Contact |Which channel was used to contact the customer |
 | Month | Month that the campaign was conducted |
 | Day_of_week |Day of the week that the campaign was conducted |
@@ -67,7 +67,9 @@ Some questions he wants you to answer in your report include:
 | BTC Futures Index | Periodic futures index |
 | Target Variable | Did the customer buy the Tesla |
 
+## Initial Analysis
 
+See [https://nathanielng.github.io/marketing-data-science/jupyter/01_analysis.html](https://nathanielng.github.io/marketing-data-science/jupyter/01_analysis.html)
 
 
 
