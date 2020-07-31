@@ -71,5 +71,6 @@ Some questions he wants you to answer in your report include:
 
 See [https://nathanielng.github.io/marketing-data-science/jupyter/01_analysis.html](https://nathanielng.github.io/marketing-data-science/jupyter/01_analysis.html)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nathanielng/marketing-data-science/blob/master/jupyter/01_analysis.ipynb)
 
 
